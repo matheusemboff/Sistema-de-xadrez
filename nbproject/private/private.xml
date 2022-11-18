@@ -5,10 +5,12 @@
         <group>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/ChessMatch.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/application/UI.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/Piece.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/King.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/Position.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/ChessPiece.java</file>
+            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/application/Program.java</file>
         </group>
     </open-files>
 </project-private>
