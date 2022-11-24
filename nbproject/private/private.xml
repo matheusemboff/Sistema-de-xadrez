@@ -5,15 +5,7 @@
         <group>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/ChessMatch.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/Pawn.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/Rook.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/Knight.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/Piece.java</file>
             <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/King.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/pieces/Queen.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/Board.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/Position.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Chess/ChessPiece.java</file>
-            <file>file:/C:/Users/matheus.boff/Documents/NetBeansProjects/chess-System/src/Boardgame/BoardException.java</file>
         </group>
     </open-files>
 </project-private>
